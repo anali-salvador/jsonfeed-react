@@ -54,7 +54,7 @@ http://localhost:5173
 
 ## 🌐 Deploy
 
-🔗 [Ver aplicación desplegada]()
+🔗 [🔗 [Ver aplicación desplegada](https://jsonfeed-react.vercel.app)]()
 
 ## 🎥 Video demostrativo
 
